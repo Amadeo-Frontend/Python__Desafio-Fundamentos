@@ -14,6 +14,14 @@ Este projeto é uma simulação simples de um sistema bancário implementado em 
 
 5. **Cadastro de Conta Bancária 💼**: O sistema permite o cadastro de contas bancárias. Para cadastrar uma nova conta, é necessário informar o CPF do usuário ao qual a conta será vinculada e o tipo de conta (corrente ou poupança).
 
+## ▶ Demonstração
+
+
+
+https://github.com/Amadeo-Frontend/Python__Desafio-Fundamentos/assets/104178969/452a4fe4-45d0-4d80-a70b-67949116556f
+
+
+
 ## 📖 Como usar
 
 Para usar o sistema, basta executar o arquivo `desafio_fundamentos.py` no terminal. Em seguida, o menu principal será exibido e o usuário poderá escolher a operação que deseja realizar.
